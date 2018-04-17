@@ -3,6 +3,7 @@ import pandas as pd
 import homework3
 import unittest
 
+#class testhw3 performs the required unittests. We import unittest module to perform these tests
 class testhw3(unittest.TestCase):
 	
 	#Test if column names are video_id, category_id and Language
